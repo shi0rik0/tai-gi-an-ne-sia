@@ -8,7 +8,7 @@ export default defineUserConfig({
   title: "臺灣閩南語按呢寫",
   description: "臺灣閩南語按呢寫綫上閲覽",
 
-  base: "/tai-gi-an-ne-sia/",
+  // base: "/tai-gi-an-ne-sia/",
 
   theme: defaultTheme({
     logo: "https://vuejs.press/images/hero.png",
